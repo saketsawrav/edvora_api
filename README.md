@@ -1,1 +1,1 @@
-## The test is run using Robot Framework, results can be found in the excel sheet, for more details check under results/ for detailed results along with the respective responses.
+## The test is run using Robot Framework, results can be found in the excel sheet, for more details check under results/ for detailed results along with the respective response code along with the message body.
