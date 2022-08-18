@@ -1,0 +1,52 @@
+{
+    "detail": [
+        {
+            "loc": [
+                "body",
+                "last_name"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        },
+        {
+            "loc": [
+                "body",
+                "username"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        },
+        {
+            "loc": [
+                "body",
+                "age"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        },
+        {
+            "loc": [
+                "body",
+                "email"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        },
+        {
+            "loc": [
+                "body",
+                "married"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        },
+        {
+            "loc": [
+                "body",
+                "attributes"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        }
+    ]
+}

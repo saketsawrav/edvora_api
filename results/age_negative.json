@@ -1,0 +1,12 @@
+{
+    "detail": [
+        {
+            "loc": [
+                "body",
+                "age"
+            ],
+            "msg": "value is not a valid integer",
+            "type": "type_error.integer"
+        }
+    ]
+}

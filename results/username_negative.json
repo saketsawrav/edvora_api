@@ -1,0 +1,12 @@
+{
+    "detail": [
+        {
+            "loc": [
+                "body",
+                "username"
+            ],
+            "msg": "username must satisfy one Uppercase letter, one lowercase letter, One Numberic letter, One special symbol, length should be atleast 8 and less then 15",
+            "type": "value_error"
+        }
+    ]
+}

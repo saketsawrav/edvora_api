@@ -1,0 +1,12 @@
+{
+    "detail": [
+        {
+            "loc": [
+                "body",
+                "married"
+            ],
+            "msg": "value could not be parsed to a boolean",
+            "type": "type_error.bool"
+        }
+    ]
+}
